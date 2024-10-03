@@ -1,1 +1,17 @@
-{ }
+[
+  {
+    "title": "Early Acces release of Project Fusion",
+    "date": "2024-10-03",
+    "content": "We've just released the first early access version of Project Fusion!"
+  },
+  {
+    "title": "Bug reports",
+    "date": "2024-10-03",
+    "content": "If you find any bugs, please report them to the Project Fusion developers."
+  },
+  {
+    "title": "Feedback & Improvements",
+    "date": "2024-10-03",
+    "content": "We would like to hear your feedback! If you have any improvements, tell us them in our Discord server."
+  }
+]
